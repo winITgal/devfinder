@@ -1,0 +1,64 @@
+[
+    {
+        "name": "The Octocat ",
+        "date_joined": "Joined 15 Jan 2023",
+        "userName": "octocat",
+        "numberOfRepos": 8,
+        "numberOfFollowers": 3839,
+        "numberOfFollowing": 9,
+        "location": "San Francisco",
+        "githubUrl": "https://github.blog",
+        "githubOrganization": "github"
+    },
+    {
+        "name": "The Octocat ",
+        "date_joined": "Joined 15 Jan 2023",
+        "userName": "octocat",
+        "bio": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros.",
+        "numberOfRepos": 8,
+        "numberOfFollowers": 3839,
+        "numberOfFollowing": 9,
+        "location": "San Francisco",
+        "githubUrl": "https://github.blog",
+        "githubOrganization": "github"
+    },
+    {
+        "name": "Charlie Brown",
+        "date_joined": "Joined 05 Mar 2024",
+        "userName": "charlieb",
+        "bio": "Data scientist who loves to explore new technologies.",
+        "numberOfRepos": 60,
+        "numberOfFollowers": 1500,
+        "numberOfFollowing": 200,
+        "location": "Boston, MA",
+        "twitterUrl": "https://twitter.com/charlieb",
+        "githubUrl": "https://github.com/charlieb",
+        "githubOrganization": "Data Science Hub"
+    },
+    {
+        "name": "Diana Prince",
+        "date_joined": "Joined 05 Mar 2024",
+        "userName": "dianapr",
+        "bio": "UI/UX designer with a knack for creating intuitive interfaces.",
+        "numberOfRepos": 25,
+        "numberOfFollowers": 1100,
+        "numberOfFollowing": 130,
+        "location": "Los Angeles, CA",
+        "twitterUrl": "https://twitter.com/dianapr",
+        "githubUrl": "https://github.com/dianapr",
+        "githubOrganization": "Design Innovators"
+    },
+    {
+        "name": "Eve Davis",
+        "date_joined": "Joined 30 Jul 2023",
+        "userName": "evedavis",
+        "bio": "Full-stack developer interested in backend systems.",
+        "numberOfRepos": 55,
+        "numberOfFollowers": 900,
+        "numberOfFollowing": 180,
+        "location": "Chicago, IL",
+        "twitterUrl": "https://twitter.com/evedavis",
+        "githubUrl": "https://github.com/evedavis",
+        "githubOrganization": "Backend Masters"
+    }
+]
